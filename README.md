@@ -15,7 +15,6 @@
 </p>
 
 ## Techs
-
 - [x] React.js
 - [x] Styled Components
 - [x] TypeScript
