@@ -13,7 +13,6 @@
     <img src="https://img.shields.io/github/license/rocketseat/youtube-clone-dropbox-menu?color=%236633cc&logo=mit" alt="License">
   </a>
 </p>
-
 ## Techs
 - [x] React.js
 - [x] Styled Components
