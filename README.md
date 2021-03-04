@@ -1,7 +1,6 @@
 <h1 align="center">
  Mercado Livre Interface 
 </h1>
-
 <p align="center">Responsive Mercado Livre UI clone for study purposes.</p>
 <p align="center">Deployed <a href="https://mercado-livre.vercel.app/">here</a>.</p>
 
